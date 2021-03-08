@@ -12,3 +12,8 @@ Before we start lets download all the needed tools.
 * web3.js https://www.npmjs.com/package/web3
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
+
+## install the dependencies.
+
+cd myproject
+npm install
