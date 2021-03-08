@@ -23,9 +23,9 @@ npm install <br/>
 * Start mysql db
 * start server app
 
-cd myprojet <br/>
-cd server <br/>
-npm run devStart<br/>
+  * cd myprojet <br/>
+  * cd server <br/>
+  * npm run devStart<br/>
 
 * start client app
 cd myproject <br/>
