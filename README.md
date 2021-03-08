@@ -13,8 +13,24 @@ Before we start lets download all the needed tools.
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
 
-## install the dependencies.
+### install the dependencies.
 
 cd myproject <br/>
 npm install <br/>
-jhj
+
+# start App
+
+* Start mysql db
+* start server app
+
+cd myprojet <br/>
+cd server <br/>
+npm run devStart<br/>
+
+* start client app
+cd myproject <br/>
+npr run start
+
+
+Finally check your browser at http://localhost:3000
+
