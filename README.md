@@ -28,8 +28,9 @@ npm install <br/>
   * npm run devStart<br/>
 
 * start client app
- * cd myproject <br/>
- * npm run start
+
+  * cd myproject <br/>
+  * npm run start
 
 
 Finally check your browser at http://localhost:3000
