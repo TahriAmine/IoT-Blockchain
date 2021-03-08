@@ -15,5 +15,6 @@ Before we start lets download all the needed tools.
 
 ## install the dependencies.
 
-cd myproject
-npm install
+cd myproject <br/>
+npm install <br/>
+jhj
