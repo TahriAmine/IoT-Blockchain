@@ -21,6 +21,8 @@ npm install <br/>
 # start App
 
 * Start mysql db
+users(id , first_name, last_name, email, password, create(timestamp), tel, date)
+data-iot(temperature, air, hiumidite, date)
 * start server app
 
   * cd myprojet <br/>
