@@ -7,9 +7,12 @@ Before we start lets download all the needed tools.
 * Express js https://expressjs.com/
 * React js https://reactjs.org/
 * Truffle https://www.trufflesuite.com/docs/truffle
+  npm install -g truffle
+
 * Ganache https://www.trufflesuite.com/docs/ganache
 * Metamask https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 * web3.js https://www.npmjs.com/package/web3
+  npm i web3
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
 
