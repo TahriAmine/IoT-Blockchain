@@ -22,12 +22,12 @@ Before we start lets download all the needed tools.
    * contracts directory: this is where all smart contacts solidity files.
    * migrations directory: this is where all of the migration files.
    * test directory: this is where we'll write our tests for our smart contract.
-   * truffle-config.js file: this is the main configuration file for our Truffle project, where we'll handle things like network configuration.
+   * truffle-config.js file: this is the main configuration file for our Truffle project, like network configuration.
  * now let's compile the smart contract and ensure that there are no errors:
      * truffle compile
- * now let's run this migration script
+ * after compile let's run this migration script
      * truffle migrate
-
+Note: in case of editing the smart contract code, we need the commande 'truffle migrate --reset' to re-deploy it.
 
 ### Install the dependencies.
 
