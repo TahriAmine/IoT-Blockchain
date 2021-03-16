@@ -1,5 +1,7 @@
 # IoT-Blockchain
-it is a project that allows the integration of Blockchain technologies into an IoT system
+it is a project that allows the integration of Blockchain technologies into an IoT system.
+The added Blockchain layer will preserve an immutable record of transactional data interconnected by blocks.
+In addition, this will allow secure and efficient sharing of data as well as the establishment of smart contracts as a means of negotiation between different stakeholders, also maintain permanent traceability of transactions.
 # Pre-Requirement
 Before we start lets download all the needed tools.
 
