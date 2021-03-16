@@ -16,14 +16,14 @@ Before we start lets download all the needed tools.
 * at first create a project directory <br/>
      mkdir My-Eth-Blockchain-App <br/>
      cd My-Eth-Blockchain-App <br/>
- * Now we initialize a new truffle project to develop our project:<br/>
+ *  we initialize a new truffle project to develop our project:<br/>
      truffle init
  * the project directory structure that we just created:
    * contracts directory: this is where all smart contacts solidity files.
    * migrations directory: this is where all of the migration files.
    * test directory: this is where we'll write our tests for our smart contract.
    * truffle-config.js file: this is the main configuration file for our Truffle project, like network configuration.
- * now let's compile the smart contract and ensure that there are no errors:
+ *  let's compile the smart contract and ensure that there are no errors:
      * truffle compile
  * after compile let's run this migration script
      * truffle migrate
