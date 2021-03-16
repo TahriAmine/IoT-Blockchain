@@ -13,12 +13,12 @@ Before we start lets download all the needed tools.
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
 
-### install the dependencies.
+### Install the dependencies.
 
 cd myproject <br/>
 npm install <br/>
 
-# start App
+# Start App
 
 * Start mysql db <br/>
 users(id , first_name, last_name, email, password, create(timestamp), tel, date) <br/>
