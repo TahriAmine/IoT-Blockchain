@@ -12,7 +12,7 @@ Before we start lets download all the needed tools.
 * web3.js https://www.npmjs.com/package/web3
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
-# How to Build Ethereum Blockchain App
+## How to Build Ethereum Blockchain App
 * at first create a project directory <br/>
      mkdir My-Eth-Blockchain-App <br/>
      cd My-Eth-Blockchain-App <br/>
