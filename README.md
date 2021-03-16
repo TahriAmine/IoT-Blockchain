@@ -23,6 +23,11 @@ Before we start lets download all the needed tools.
    * migrations directory: this is where all of the migration files.
    * test directory: this is where we'll write our tests for our smart contract.
    * truffle-config.js file: this is the main configuration file for our Truffle project, where we'll handle things like network configuration.
+ * now let's compile the smart contract and ensure that there are no errors:
+     * truffle compile
+ * now let's run this migration script
+     * truffle migrate
+
 
 ### Install the dependencies.
 
