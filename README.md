@@ -13,11 +13,16 @@ Before we start lets download all the needed tools.
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
 # How to Build Ethereum Blockchain App
-* at first create a project directory
- mkdir My-Eth-Blockchain-App <br/>
- cd My-Eth-Blockchain-App <br/>
- * Now we initialize a new truffle project to develop our project:
- truffle init
+* at first create a project directory <br/>
+     mkdir My-Eth-Blockchain-App <br/>
+     cd My-Eth-Blockchain-App <br/>
+ * Now we initialize a new truffle project to develop our project:<br/>
+     truffle init
+ * the project directory structure that we just created:
+   * contracts directory: this is where all smart contacts solidity files.
+   * migrations directory: this is where all of the migration files.
+   * test directory: this is where we'll write our tests for our smart contract.
+   * truffle-config.js file: this is the main configuration file for our Truffle project, where we'll handle things like network configuration.
 
 ### Install the dependencies.
 
