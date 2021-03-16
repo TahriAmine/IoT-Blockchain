@@ -12,6 +12,12 @@ Before we start lets download all the needed tools.
 * web3.js https://www.npmjs.com/package/web3
 * MySQL https://www.mysql.com
 * IPFS Desktop https://ipfs.io/
+# How to Build Ethereum Blockchain App
+* at first create a project directory
+ mkdir My-Eth-Blockchain-App <br/>
+ cd My-Eth-Blockchain-App <br/>
+ * Now we initialize a new truffle project to develop our project:
+ truffle init
 
 ### Install the dependencies.
 
@@ -28,6 +34,7 @@ data-iot(temperature, air, hiumidite, date) <br/>
   * cd myprojet <br/>
   * cd server <br/>
   * npm run devStart<br/>
+  check  http://localhost:3001
 
 * start client app
 
